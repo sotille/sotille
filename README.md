@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sotille&label=Profile%20views&color=0e75b6&style=flat alt="sotille" /> </p>
 
-<img width="1000" src="https://media.giphy.com/media/0bGYUwfH5KEvvJEyWu/giphy.gif" alt="github">
+<!--img width="1000" src="https://media.giphy.com/media/0bGYUwfH5KEvvJEyWu/giphy.gif" alt="github">
 
 ### About me:
 
@@ -14,11 +14,11 @@
 - 💬 Ask me about ANYTHING! I'm a very open person and I'd be glad to help you.
 - ⚡ Fun fact: I like Montains, nature, chess and sci-fi movies.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sotille&theme=onedark&column=7&margin-w=10&margin-h=10" alt="adel-cabrera" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sotille&theme=onedark&column=7&margin-w=10&margin-h=10" alt="sotille" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adel-jes%c3%bas-cabrera-mesina/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sotille/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sotille/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sotille/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
