@@ -50,7 +50,7 @@ I love building reliable systems and empowering teams. Equally in love with tech
 -->
 
 <details>
-  <summary>🏆 Trophies (optional)</summary>
+  <summary>🏆 Trophies</summary>
   <br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sotille&theme=onedark&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
@@ -58,7 +58,7 @@ I love building reliable systems and empowering teams. Equally in love with tech
 </details>
 
 <details>
-  <summary>👁️ Profile views (optional)</summary>
+  <summary>👁️ Profile views</summary>
   <br>
   <img src="https://komarev.com/ghpvc/?username=sotille&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter" />
 </details>
