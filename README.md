@@ -3,6 +3,8 @@
 
 # Felipe Sotille
 
+Check my website here: https://sotille.github.io/
+
 **Sr. DevSecOps & Software Engineer · Tech Lead · Cloud‑Native · Platform Engineering**
 
 Building reliable systems and empowering teams. Equally into technology **and** the outdoors.  
