@@ -36,18 +36,11 @@ I love building reliable systems and empowering teams. Equally in love with tech
 
 ---
 
-### GitHub Stats
-<div align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sotille&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=sotille&layout=compact&theme=tokyonight&langs_count=6" alt="Top languages">
-</div>
-
 <!-- Optional streaks (can look busy; enable if you like) -->
-<!--
+
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sotille&theme=tokyonight" alt="GitHub streak" />
 </p>
--->
 
 <details>
   <summary>🏆 Trophies</summary>
