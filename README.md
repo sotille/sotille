@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,30&amp;height=200&amp;section=header&amp;text=Felipe+Sotille&amp;fontSize=55&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Sr.+DevSecOps+%26+Software+Engineer+%7C+Tech+Lead+%7C+Platform+Engineering&amp;descSize=16&amp;descAlignY=58" alt="Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=180&amp;section=header" alt="Header"/>
+
+<h1>Felipe Sotille</h1>
+<h4>Sr. DevSecOps &amp; Software Engineer · Tech Lead · Platform Engineering</h4>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=750&lines=19%2B+years+shipping+reliable+systems+%F0%9F%9A%80;DevSecOps+%7C+Cloud-Native+%7C+Platform+Engineering;SWIFT+%E2%80%A2+Swissquote+%E2%80%A2+MyCujoo+(Eleven);Microservices+%7C+Kafka+%7C+Kubernetes+%7C+AWS+%7C+GCP;Security+Posture+%7C+CI%2FCD+Blueprints+%7C+SLSA;Open+to+OSS+%E2%80%94+ask+me+about+architecture+%26+DX)](https://git.io/typing-svg)
 
@@ -229,5 +232,5 @@ CI/CD blueprints, orquestração de releases, DevSecOps, observabilidade, coachi
 </details>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,30&amp;height=100&amp;section=footer" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" alt="Footer"/>
 </div>
