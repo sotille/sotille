@@ -1,117 +1,141 @@
-<!-- Optional avatar (commit your image to assets/avatar.png, then uncomment) -->
-<!-- <img align="right" width="180" src="./assets/avatar.png" alt="Coding ninja avatar"> -->
+<div align="center">
 
-# Felipe Sotille
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Felipe+Sotille+%F0%9F%91%8B;Sr.+DevSecOps+%26+Software+Engineer;Tech+Lead+%7C+Cloud-Native+%7C+Platform+Eng;19%2B+years+shipping+reliable+systems)](https://git.io/typing-svg)
 
-Check my website here: https://sotille.github.io/
+<p>
+  <a href="mailto:fsotille@gmail.com"><img src="https://img.shields.io/badge/Email-fsotille%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/felipe-sotille/"><img src="https://img.shields.io/badge/LinkedIn-Felipe%20Sotille-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://sotille.github.io/"><img src="https://img.shields.io/badge/Portfolio-sotille.github.io-FF5722?style=for-the-badge&logo=google-chrome&logoColor=fff" alt="Portfolio"/></a>
+  &nbsp;
+  <a href="https://github.com/sotille?tab=repositories"><img src="https://img.shields.io/badge/GitHub-@sotille-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub"/></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=sotille&label=Profile+views&color=0e75b6&style=flat" alt="Profile views"/>
+
+</div>
+
+---
+
+## About Me
+
+> **Sr. DevSecOps & Software Engineer · Tech Lead · Cloud‑Native · Platform Engineering**
+
+- Building **reliable systems** and empowering teams since **2007** — **19+ years** across Banking, ERPs, Real‑time, and Social apps
+- Currently at **SWIFT** (Brussels): CI/CD blueprints, release orchestration, DevSecOps, observability & coaching
+- Equally passionate about **technology** and the **outdoors** — mountains, chess, music, and sci-fi
+- Open to **OSS collaborations** — ask me about **architecture, DX, and shipping at scale**
+
+---
+
+## Experience
+
+| Period | Role | Company | Focus |
+|--------|------|---------|-------|
+| Jan 2025 – Present | **Sr. DevSecOps Engineer** (Consultant) | [SWIFT](https://www.swift.com/) · Brussels, BE | CI/CD blueprints · Release orchestration · DevSecOps · Observability |
+| Jul – Dec 2024 | **Senior Java Consultant** (Freelance) | [Swissquote](https://www.swissquote.com/) · Geneva, CH | Oracle migration at billions-of-records scale · Denormalization & partitioning |
+| Jul 2019 – Jun 2024 | **Sr. Software Engineer** (Consultant) | [SWIFT](https://www.swift.com/) · Brussels, BE | Monolith → microservices · JSF → Angular · Coveo AI Search · Docker champion |
+| Jun 2018 – Jun 2019 | **Lead Software & DevOps Engineer** | [MyCujoo (Eleven)](https://www.elevensports.com/) · Lisbon, PT | Real‑time Vert.x + Kafka · Kubernetes/GCP · Team leadership |
+
+---
+
+## Key Achievements
+
+```
+🚀 CI/CD standardization → measurable KPI improvements across multiple squads
+💾 Database migration at scale → billions of financial records, zero data loss
+🏗️ Monolith → microservices → led full Identity Management decomposition
+⚡ Real-time backend → Vert.x + Kafka on Kubernetes/GCP (sub-100ms latency)
+🔒 DevSecOps posture → static analysis, image hardening, shift-left security
+```
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Core
+<img src="https://skillicons.dev/icons?i=java,spring,ts,angular,nodejs,python,dart,flutter&perline=8" alt="Core stack"/>
+
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,git&perline=6" alt="Cloud & DevOps"/>
+
+### Data & Search
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,elastic&perline=4" alt="Data & Search"/>
+
+### Web
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap&perline=3" alt="Web"/>
+
+</div>
+
+---
+
+## Focus Areas
+
+<div align="center">
+
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipeline%20Engineering-brightgreen?style=flat-square)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-Shift--Left%20Security-red?style=flat-square)
+![Cloud Native](https://img.shields.io/badge/Cloud%20Native-Kubernetes%20%7C%20GCP%20%7C%20AWS-blue?style=flat-square)
+![Platform Eng](https://img.shields.io/badge/Platform%20Engineering-DX%20%26%20Automation-purple?style=flat-square)
+![Observability](https://img.shields.io/badge/Observability-Monitoring%20%26%20Alerting-orange?style=flat-square)
+![Architecture](https://img.shields.io/badge/Architecture-Microservices%20%7C%20Event--Driven-blueviolet?style=flat-square)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sotille&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sotille&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sotille&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+<br/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=sotille&theme=onedark&column=7&margin-w=10&margin-h=10&no-frame=true" alt="GitHub trophies"/>
+</a>
+
+</div>
+
+---
+
+<details>
+  <summary>🇧🇷 Versão em Português</summary>
+  <br>
 
 **Sr. DevSecOps & Software Engineer · Tech Lead · Cloud‑Native · Platform Engineering**
+**Experiência:** 19+ anos (desde 2007) • Banking · ERPs · Tempo real · Apps sociais
 
-Building reliable systems and empowering teams. Equally into technology **and** the outdoors.  
-**Experience:** ≈ **18 years 4 months** (since 2007) • Banking · ERPs · Real‑time · Social apps
+**Agora** — **Sr. DevSecOps Engineer (Consultor) — SWIFT** • Jan 2025 – Atual • Bruxelas, BE
+Foco: Blueprints de CI/CD, orquestração de releases, DevSecOps, observabilidade, coaching & automação.
 
----
+**Antes:**
+- **Senior Java Consultant (Freelance) — Swissquote** • Jul–Dez 2024 • Genebra, CH
+  Migração Oracle (bilhões de registros), loader em Java, desnormalização e particionamento, otimização de queries.
+- **Sr. Software Engineer (Consultor) — SWIFT** • Jul 2019 – Jun 2024 • Bruxelas, BE
+  Monólito → microserviços, JSF → Angular, Coveo AI Search, Adobe Experience Cloud, Docker champion, Agile/Scrum.
+- **Lead Software & DevOps Engineer — MyCujoo (Eleven)** • Jun 2018 – Jun 2019 • Lisboa, PT
+  Plataforma em tempo real (Vert.x, Kafka) em Kubernetes/GCP; liderança e cultura de engenharia.
 
-### Now
-- **Sr. DevSecOps Engineer (Consultant) — SWIFT** • **Jan 2, 2025 — Present** • Brussels Area, BE  
-  Focus: **CI/CD blueprints, release orchestration, DevSecOps, observability**, coaching & automation.
-
-### Previously
-- **Senior Java Consultant (Freelance) — Swissquote** • **Jul 2024 — Dec 2024** • Geneva Metropolitan Area · Hybrid  
-  Oracle migration (billions of records), data loader in Java, **denormalization & partitioning**, query optimization.
-- **Sr. Software Engineer (Consultant) — SWIFT** • **Jul 2019 — Jun 2024** • Brussels Area, BE  
-  **Monolith → microservices** (Identity Mgmt), **JSF → Angular** migration, **Coveo AI Search**, Adobe Experience Cloud, Docker champion, Agile/Scrum.
-- **Lead Software & DevOps Engineer — MyCujoo (Eleven)** • **Jun 2018 — Jun 2019** • Lisbon Area, PT  
-  **Real‑time Vert.x + Kafka** platform, K8s/GCP, leadership & team culture.
-
-> 🟢 **Open to OSS collaborations** • 💬 Ask me about **architecture, DX, and shipping**.
-
----
-
-### Highlights & Impact
-- CI/CD **standardization** and **release orchestration** driving key KPIs across squads.  
-- **Database migration at scale** (billions of financial transactions) with performance engineering.  
-- Led **monolith → microservices** journey and **JSF → Angular** modernization.  
-- Built **real‑time** backends (**Vert.x**, **Kafka**) on **Kubernetes/GCP**.  
-- Security posture: static analysis, image hardening, and **DevSecOps** coaching.
-
----
-
-### Connect
-<a href="mailto:fsotille@gmail.com">
-  <img src="https://img.shields.io/badge/Email-fsotille%40gmail.com-EA4335?logo=gmail&logoColor=fff" alt="Email: fsotille@gmail.com">
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/felipe-sotille/">
-  <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Sotille-0A66C2?logo=linkedin&logoColor=fff" alt="LinkedIn: Felipe Sotille">
-</a>
-&nbsp;
-<a href="https://github.com/sotille?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-@sotille-181717?logo=github&logoColor=fff" alt="GitHub: @sotille">
-</a>
-
----
-
-### Languages & Tools
-<!-- crisp, modern icon line; adjust list/order as you prefer -->
-<img src="https://skillicons.dev/icons?i=java,spring,ts,angular,nodejs,python,dart,flutter,aws,gcp,docker,kubernetes,git,linux,postgres,mysql,mongodb,elastic,html,css,bootstrap&perline=12" alt="Tech stack icons">
-
-**Interests:** Mountains · Chess · **Music** · **Technology** · **AI** · Sci‑Fi
-
----
-
-### Selected Topics I Enjoy
-`CI/CD` · `DevSecOps` · `Cloud Native` · `Platform Engineering` · `Observability` · `Java/Spring` · `Angular/TypeScript` · `Kubernetes/Docker`
-
----
-
-<!-- Optional stats; keep collapsed to reduce noise -->
-<details>
-  <summary>📈 Activity (optional)</summary>
-  <br>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sotille&theme=tokyonight" alt="GitHub streak" />
-  </p>
-</details>
-
-<details>
-  <summary>🏆 Trophies (optional)</summary>
-  <br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sotille&theme=onedark&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
-  </a>
-</details>
-
-<details>
-  <summary>👁️ Profile views (optional)</summary>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=sotille&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter" />
-</details>
-
----
-
-<details>
-  <summary>🇧🇷 Versão em português</summary>
-
-**Sr. DevSecOps & Software Engineer · Tech Lead · Cloud‑Native · Platform Engineering**  
-**Experiência:** ≈ **18 anos e 4 meses** (desde 2007) • Banking · ERPs · Tempo real · Apps sociais
-
-**Agora** — **Sr. DevSecOps Engineer (Consultor) — SWIFT** • **2 jan. 2025 — Atual** • Área de Bruxelas, BE  
-Foco: **Blueprints de CI/CD, orquestração de releases, DevSecOps, observabilidade**, coaching & automação.
-
-**Antes**
-- **Senior Java Consultant (Freelance) — Swissquote** • **jul. 2024 — dez. 2024** • Genebra · Híbrido  
-  Migração Oracle (bilhões de registros), loader em Java, **desnormalização e particionamento**, otimização de queries.
-- **Sr. Software Engineer (Consultor) — SWIFT** • **jul. 2019 — jun. 2024** • Bruxelas, BE  
-  **Monólito → microserviços**, **JSF → Angular**, **Coveo AI Search**, Adobe Experience Cloud, Docker champion, Agile/Scrum.
-- **Lead Software & DevOps Engineer — MyCujoo (Eleven)** • **jun. 2018 — jun. 2019** • Lisboa, PT  
-  Plataforma em **tempo real** (**Vert.x**, **Kafka**) em **Kubernetes/GCP**; liderança e cultura.
-
-**Destaques**
-- **Padronização de CI/CD** e **orquestração de releases** (KPIs).  
-- **Migração de banco em larga escala** (bilhões de transações).  
-- **Monólito → microserviços** e **JSF → Angular**.  
-- Backends **real‑time** (**Vert.x**, **Kafka**) em **Kubernetes/GCP**.  
-- Segurança: análise estática, hardening de imagens e **DevSecOps** coaching.
+**Destaques:**
+- Padronização de CI/CD e orquestração de releases com impacto direto em KPIs.
+- Migração de banco em larga escala (bilhões de transações financeiras).
+- Monólito → microserviços e JSF → Angular.
+- Backends real‑time (Vert.x, Kafka) em Kubernetes/GCP.
+- Segurança: análise estática, hardening de imagens e coaching de DevSecOps.
 
 </details>
+
+<div align="center">
+  <i>⚡ "Ship early, ship often — but never sacrifice reliability."</i>
+</div>
