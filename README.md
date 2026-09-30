@@ -1,236 +1,92 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=180&amp;section=header" alt="Header"/>
-
 <h1>Felipe Sotille</h1>
-<h4>Sr. DevSecOps &amp; Software Engineer · Tech Lead · Platform Engineering</h4>
+<h3>Senior DevSecOps Architect &amp; Coach</h3>
+<p>Freelance consultant · Italian (EU) citizen · Brussels · currently at <a href="https://www.swift.com">SWIFT</a></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=750&lines=19%2B+years+shipping+reliable+systems+%F0%9F%9A%80;DevSecOps+%7C+Cloud-Native+%7C+Platform+Engineering;SWIFT+%E2%80%A2+Swissquote+%E2%80%A2+MyCujoo+(Eleven);Microservices+%7C+Kafka+%7C+Kubernetes+%7C+AWS+%7C+GCP;Security+Posture+%7C+CI%2FCD+Blueprints+%7C+SLSA;Open+to+OSS+%E2%80%94+ask+me+about+architecture+%26+DX)](https://git.io/typing-svg)
-
-<br/>
-
-<a href="mailto:fsotille@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
-<a href="https://linkedin.com/in/felipe-sotille/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
-<a href="https://sotille.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=fff" /></a>
-<a href="https://github.com/sotille?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" /></a>
+<a href="https://dev.felipe.sotille.com/cv"><img src="https://img.shields.io/badge/CV-dev.felipe.sotille.com-0f4c5c?style=for-the-badge" alt="CV" /></a>
+<a href="https://dev.felipe.sotille.com/cv/Felipe-Sotille-DevSecOps-Architect.pdf"><img src="https://img.shields.io/badge/PDF-download-0f4c5c?style=for-the-badge" alt="PDF" /></a>
+<a href="https://linkedin.com/in/Felipe-Sotille/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" /></a>
+<a href="https://medium.com/@fsotille"><img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=fff" alt="Medium" /></a>
+<a href="mailto:fsotille@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sotille&label=Profile+views&color=00d4ff&style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/sotille?label=Followers&style=flat-square&color=00d4ff" />
+| **17+** | **40+** | **300+** | **2.5bn** |
+|:---:|:---:|:---:|:---:|
+| years in software engineering | Java apps on zero-touch release orchestration | VMs on orchestrated patching, −40% time | financial records migrated to Oracle |
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=sotille&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
+## About
 
-### About Me
+I design the release-orchestration and security standards that engineering squads ship through, then coach them until the standard holds. Regulated, high-availability platforms: SWIFT, Swissquote, Eleven Sports.
 
-- **Sr. DevSecOps Engineer** at [**SWIFT**](https://swift.com) · Brussels
-- **19+ years** across Banking, ERPs, Real-time & Social platforms
-- Builder of the **[Techstream Frameworks](#-techstream-open-source-ecosystem)** — an enterprise DevSecOps framework ecosystem covering the full software delivery lifecycle
-- Into **mountains, chess, music, Sci-Fi** and anything that ships at scale
-- Ask me about **architecture, DX, CI/CD, DevSecOps, supply chain security**
+- **Now:** DevSecOps Customer Success Architect (consultant) at SWIFT, Brussels. CloudBees CI and CD/RO, golden-path pipelines, SBOM and policy-as-code guardrails aligned with DORA (the EU Digital Operational Resilience Act), orchestrated patching across 300+ VMs, coaching 5+ squads.
+- **Background:** 17+ years of Java and Linux. Monolith-to-microservices at SWIFT, an event-driven Kafka/Vert.x platform on Kubernetes at Eleven Sports, a 2.5 billion-record migration to Oracle at Swissquote.
+- **How I work:** agent-first with Claude Code, Codex and Devin, under a governance discipline: scoped tasks, human review and the same security gates as human-written code. This profile, my CV and my site are built that way ([sotille/CV](https://github.com/sotille/CV)).
 
-<br clear="right"/>
+## Experience
 
----
-
-## Career Timeline
-
-| | Role | Company | Impact |
+| | Role | Where | What |
 |---|---|---|---|
-| 🟢 | **Sr. DevSecOps Engineer** · Consultant | **SWIFT** · Brussels · *Jan 2025–now* | CI/CD blueprints · Release orchestration · Observability coaching |
-| ⚪ | **Senior Java Consultant** · Freelance | **Swissquote** · Geneva · *Jul–Dec 2024* | Oracle migration at **billions-of-records scale** · Denormalization & partitioning |
-| ⚪ | **Sr. Software Engineer** · Consultant | **SWIFT** · Brussels · *Jul 2019–Jun 2024* | Monolith → microservices · JSF → Angular · Coveo AI Search · Docker champion |
-| ⚪ | **Lead Software & DevOps Engineer** | **MyCujoo (Eleven)** · Lisbon · *Jun 2018–Jun 2019* | Real-time Vert.x + Kafka on K8s/GCP · Team leadership & culture |
+| 🟢 | **DevSecOps Customer Success Architect** · consultant | **SWIFT** · Brussels · Jan 2025 – now | 40+ Java apps onboarded to zero-touch release orchestration (CloudBees CD/RO); 20+ orchestrated-patching pipelines over 300+ VMs; SAST/DAST gates, SBOM, policy-as-code; coaching 5+ squads |
+| ⚪ | **Senior Software Engineer** · consultant | **Swissquote** · Geneva · Jul – Dec 2024 | 2.5 billion-record financial database migrated to Oracle without loss of integrity |
+| ⚪ | **Senior Software Engineer** · consultant | **SWIFT** · Brussels · Jul 2019 – Jun 2024 | Identity Management monolith to microservices with the service live; JSF to Angular; Docker champion for two squads |
+| ⚪ | **Tech Lead &amp; Senior Software Engineer** | **Eleven Sports (MyCujoo)** · Lisbon · Jun 2018 – Jun 2019 | Cloud-native CQRS/event-driven backend on Vert.x and Kafka, Kubernetes on GCP, hundreds of thousands of concurrent interactions |
 
----
+Earlier: Senior Java Developer at WPLEX (2015–2018), Java Developer at Metaway (2015) and Città (2010–2014), Junior Java Developer at Allcance (2008–2009), Brazil.
 
-## Key Achievements
+## Techstream: open frameworks
 
-```text
-🚀  CI/CD standardization     →  measurable KPI improvements across multiple squads at SWIFT
-💾  DB migration at scale      →  billions of financial records, zero data loss, Swissquote
-🏗️  Monolith → microservices  →  led full Identity Management decomposition, SWIFT
-⚡  Real-time backend          →  Vert.x + Kafka on Kubernetes/GCP, sub-100ms latency, MyCujoo
-🔒  DevSecOps posture          →  shift-left security, image hardening, supply chain controls
-📦  Supply chain security      →  SLSA, SBOM (CycloneDX/SPDX), Cosign/Sigstore, Rekor
-📐  Compliance automation      →  SOC 2 · ISO 27001 · PCI-DSS · NIST 800-53 · CIS Benchmarks
-```
+Public frameworks and reference architectures I publish under Techstream, my consultancy.
 
----
+| Framework | What it covers |
+|---|---|
+| [Release Orchestration Framework](https://github.com/sotille/release-orchestration-framework) | deployment governance and controlled delivery across environments |
+| [Software Supply Chain Security Framework](https://github.com/sotille/software-supply-chain-security-framework) | dependencies, build systems, artifacts and deployment environments |
+| [Secure CI/CD Reference Architecture](https://github.com/sotille/secure-ci-cd-reference-architecture) | reference architectures for secure pipelines, cloud-native and enterprise |
+| [AI DevSecOps Framework](https://github.com/sotille/ai-devsecops-framework) | securing AI-assisted and agentic software delivery |
+| [DevSecOps Framework](https://github.com/sotille/devsecops-framework) | principles, architecture patterns, security controls and implementation guidelines |
+| [DevSecOps Maturity Model](https://github.com/sotille/devsecops-maturity-model) | assess and guide organisations towards secure software delivery |
+| [Compliance Automation Framework](https://github.com/sotille/compliance-automation-framework) | automating security and compliance controls across pipelines and cloud |
+| [DevSecOps Methodology](https://github.com/sotille/devsecops-methodology) | processes, governance, tooling and transformation roadmap |
+| [Forensics &amp; Incident Response Framework](https://github.com/sotille/forensics-and-incident-response-framework) | evidence handling, incident response and post-mortems for delivery platforms |
 
-## Techstream Open Source Ecosystem
+## Writing
 
-> A collection of **11 production-ready, enterprise-grade DevSecOps frameworks** — open-sourced under Apache 2.0 — covering the entire software delivery lifecycle.
+- [Why Your AI Agent Is the Next SolarWinds: Supply Chain Security for the Agentic Era](https://medium.com/@fsotille) · May 2026
+- [The Four Layers of Software Supply Chain Integrity](https://medium.com/@fsotille) · May 2026
+- [The 4-Phase DevSecOps Transformation](https://medium.com/@fsotille) · April 2026
 
-<div align="center">
+## Stack
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                    TECHSTREAM FRAMEWORK ECOSYSTEM                        │
-├──────────────────────────┬──────────────────────────────────────────────┤
-│  FOUNDATION              │  DevSecOps Framework · Methodology · TDMM    │
-│                          │  (5-level maturity model, 8 domains)          │
-├──────────────────────────┼──────────────────────────────────────────────┤
-│  PIPELINE & DELIVERY     │  Secure CI/CD Reference Architecture          │
-│                          │  Secure Pipeline Templates (GH/GL/Jenkins)    │
-│                          │  Release Orchestration Framework              │
-├──────────────────────────┼──────────────────────────────────────────────┤
-│  DOMAIN SECURITY         │  Software Supply Chain Security (SLSA/SBOM)   │
-│                          │  Cloud Security DevSecOps (AWS/Azure/GCP)     │
-├──────────────────────────┼──────────────────────────────────────────────┤
-│  COMPLIANCE & GOVERNANCE │  Compliance Automation (OPA/Kyverno/Rego)     │
-│                          │  SOC 2 · ISO 27001 · PCI-DSS · NIST 800-53   │
-├──────────────────────────┼──────────────────────────────────────────────┤
-│  CROSS-CUTTING           │  Forensics & Incident Response                │
-│                          │  AI & Agentic Systems Security                │
-└──────────────────────────┴──────────────────────────────────────────────┘
-```
+**DevSecOps &amp; CI/CD** · CloudBees CI and CD/RO (expert) · Jenkins · SAST/DAST/SCA gates · SBOM and supply-chain security · policy as code · platform engineering (golden paths) · secure SDLC · Ansible Automation Platform · Docker · Kubernetes · Linux · HashiCorp Vault
 
-</div>
+**Backend &amp; architecture** · Java 8–17 · Spring Boot / Security / Web · Vert.x · REST · GraphQL · microservices · event-driven / CQRS · Apache Kafka · Hazelcast
+
+**Cloud &amp; data** · AWS · Google Cloud Platform · Oracle · PostgreSQL · SQL tuning and partitioning
+
+**AI-assisted engineering** · Claude Code · OpenAI Codex · Devin · governed agentic workflows · AI-assisted code review
+
+**Certifications** · CKS and CKA in progress (2026)
+
+**Languages** · Portuguese (native) · English (fluent) · French (B1)
 
 <details>
-<summary><strong>Expand framework highlights</strong></summary>
+<summary>🇧🇷 Versão em português</summary>
 <br/>
 
-| Framework | What it solves | Standards |
-|---|---|---|
-| **DevSecOps Maturity Model (TDMM)** | 5-level maturity assessment across 8 security domains, 45-item scorecard | CMMI · OWASP SAMM · BSIMM |
-| **Secure CI/CD Reference Architecture** | STRIDE threat model for pipelines, supply chain attacks, privilege escalation | NIST SSDF · SLSA · SOC 2 |
-| **Secure Pipeline Templates** | Drop-in GitHub Actions / GitLab CI / Jenkins / Azure Pipelines with SAST, SCA, secrets scan, signing | OWASP · CIS · SLSA L2 |
-| **Software Supply Chain Security** | SLSA L1–L4, SBOM lifecycle, VEX workflows, Sigstore/Rekor, open-source assessment | SLSA · EO 14028 · EU CRA |
-| **Compliance Automation** | Policy-as-Code (OPA/Rego, Kyverno), automated evidence collection, drift detection | SOC 2 · ISO 27001 · PCI-DSS v4 · GDPR |
-| **Cloud Security DevSecOps** | Multi-cloud security controls: IAM, CSPM, IaC scanning, K8s hardening, incident runbooks | CIS · Pod Security Standards |
-| **Release Orchestration** | Approval workflows, progressive delivery (canary/blue-green), GitOps, DORA instrumentation | ITIL · SOX · DORA |
-| **Forensics & IR Framework** | Evidence architecture across 6 domains: CI/CD, cloud, supply chain, identity, AI agents | — |
-| **AI & Agentic Systems Security** | Prompt injection defense, agent authorization, model supply chain, agentic CI/CD | STRIDE · OWASP LLM Top 10 |
+**Arquiteto DevSecOps Sênior &amp; Coach** · consultor freelance · cidadão italiano (UE) · Bruxelas
+
+Desenho os padrões de orquestração de releases e segurança pelos quais os squads entregam, e faço coaching até o padrão se sustentar. Plataformas reguladas e de alta disponibilidade: SWIFT, Swissquote, Eleven Sports.
+
+- **Agora:** DevSecOps Customer Success Architect (consultor) na SWIFT, Bruxelas. 40+ aplicações Java em orquestração de releases zero-touch (CloudBees CD/RO), 20+ pipelines de patching orquestrado em 300+ VMs (−40% no tempo), gates SAST/DAST, SBOM e policy-as-code alinhados à DORA, coaching de 5+ squads.
+- **Antes:** Swissquote (migração de 2,5 bilhões de registros para Oracle), SWIFT 2019–2024 (monólito para microsserviços, JSF para Angular, Docker champion), Eleven Sports (backend orientado a eventos em Vert.x e Kafka sobre Kubernetes/GCP).
+- **Como trabalho:** agent-first com Claude Code, Codex e Devin, sob governança: tarefas com escopo, revisão humana e os mesmos gates de segurança do código escrito por humanos.
 
 </details>
 
----
-
-## Tech Stack
-
-<div align="center">
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=fff)
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=fff)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=fff)
-
-### Frameworks & Runtimes
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=fff)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
-![Vert.x](https://img.shields.io/badge/Vert.x-782A90?style=for-the-badge&logo=eclipsevertdotx&logoColor=fff)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=fff)
-
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=fff)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=fff)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=fff)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=fff)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
-
-### CI/CD & GitOps
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=fff)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=fff)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=fff)
-![Flux](https://img.shields.io/badge/FluxCD-5468FF?style=for-the-badge&logo=flux&logoColor=fff)
-
-### Security Toolchain
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasec&logoColor=fff)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=fff)
-![Semgrep](https://img.shields.io/badge/Semgrep-1B2D3E?style=for-the-badge&logo=semgrep&logoColor=fff)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=fff)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=fff)
-![Cosign](https://img.shields.io/badge/Cosign_Sigstore-2F5BA1?style=for-the-badge&logo=sigstore&logoColor=fff)
-![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=000)
-![Gitleaks](https://img.shields.io/badge/Gitleaks-F44D27?style=for-the-badge&logo=git&logoColor=fff)
-
-### Observability & Data
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=fff)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=fff)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff)
-
-### Standards & Compliance
-![SLSA](https://img.shields.io/badge/SLSA_L2-4285F4?style=flat-square&logoColor=fff)
-![NIST](https://img.shields.io/badge/NIST_800--53-1A237E?style=flat-square&logoColor=fff)
-![OWASP](https://img.shields.io/badge/OWASP_SAMM-000000?style=flat-square&logo=owasp&logoColor=fff)
-![CIS](https://img.shields.io/badge/CIS_Benchmarks-v8-FF6B35?style=flat-square)
-![SOC2](https://img.shields.io/badge/SOC_2_Type_II-0052CC?style=flat-square)
-![ISO27001](https://img.shields.io/badge/ISO_27001:2022-2E7D32?style=flat-square)
-![DORA](https://img.shields.io/badge/DORA_Metrics-7B1FA2?style=flat-square)
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sotille&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top languages"/>
-&nbsp;
-<img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=sotille&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak stats"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sotille&theme=onedark&column=7&margin-w=8&margin-h=8&no-frame=true" alt="GitHub trophies"/>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sotille/sotille/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sotille/sotille/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/sotille/sotille/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
----
-
-<details>
-<summary>🇧🇷 Versão em Português</summary>
-<br/>
-
-**Sr. DevSecOps & Software Engineer · Tech Lead · Cloud‑Native · Platform Engineering**
-**Experiência:** 19+ anos (desde 2007) · Banking · ERPs · Tempo real · Apps sociais
-
-**Agora** — **Sr. DevSecOps Engineer (Consultor) — SWIFT** · Jan 2025–Atual · Bruxelas, BE
-CI/CD blueprints, orquestração de releases, DevSecOps, observabilidade, coaching & automação.
-
-**Antes:**
-- **Senior Java Consultant (Freelance) — Swissquote** · Jul–Dez 2024 · Genebra, CH — Migração Oracle (bilhões de registros), desnormalização & particionamento
-- **Sr. Software Engineer (Consultor) — SWIFT** · Jul 2019–Jun 2024 · Bruxelas, BE — Monólito → microserviços · JSF → Angular · Coveo AI Search · Docker champion
-- **Lead Software & DevOps Engineer — MyCujoo (Eleven)** · Jun 2018–Jun 2019 · Lisboa, PT — Plataforma real-time (Vert.x, Kafka) em Kubernetes/GCP · Liderança de engenharia
-
-**Destaques:**
-- Padronização de CI/CD com impacto direto em KPIs entre múltiplos squads
-- Migração de banco em larga escala (bilhões de transações financeiras)
-- Jornada completa monólito → microserviços e JSF → Angular
-- Backends real-time (Vert.x, Kafka) em Kubernetes/GCP
-- Postura de segurança: análise estática, hardening de imagens, coaching DevSecOps
-- Ecossistema **Techstream** — 11 frameworks enterprise de DevSecOps, open source
-
-</details>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" alt="Footer"/>
-</div>
+<p align="center"><sub>Profile, CV and site are generated from one YAML source with quality gates in CI: <a href="https://github.com/sotille/CV">sotille/CV</a>.</sub></p>
