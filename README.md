@@ -1,8 +1,8 @@
 <div align="center">
 
 <h1>Felipe Sotille</h1>
-<h3>Senior DevSecOps Architect &amp; Coach</h3>
-<p>Freelance consultant · Italian (EU) citizen · Brussels · currently at <a href="https://www.swift.com">SWIFT</a></p>
+<h3>DevSecOps Architect &amp; Coach</h3>
+<p>Italian (EU) citizen · Brussels · currently at <a href="https://www.swift.com">SWIFT</a> as a consultant</p>
 
 <a href="https://dev.felipe.sotille.com/cv"><img src="https://img.shields.io/badge/CV-dev.felipe.sotille.com-0f4c5c?style=for-the-badge" alt="CV" /></a>
 <a href="https://dev.felipe.sotille.com/cv/Felipe-Sotille-DevSecOps-Architect.pdf"><img src="https://img.shields.io/badge/PDF-download-0f4c5c?style=for-the-badge" alt="PDF" /></a>
@@ -14,7 +14,7 @@
 
 | **17+** | **40+** | **300+** | **2.5bn** |
 |:---:|:---:|:---:|:---:|
-| years in software engineering | Java apps on zero-touch release orchestration | VMs on orchestrated patching, −40% time | financial records migrated to Oracle |
+| years in software engineering | Java apps on zero-touch release orchestration | VMs on orchestrated patching, 40% faster | financial records migrated to Oracle |
 
 </div>
 
@@ -24,15 +24,15 @@
 
 I design the release-orchestration and security standards that engineering squads ship through, then coach them until the standard holds. Regulated, high-availability platforms: SWIFT, Swissquote, Eleven Sports.
 
-- **Now:** DevSecOps Customer Success Architect (consultant) at SWIFT, Brussels. CloudBees CI and CD/RO, golden-path pipelines, SBOM and policy-as-code guardrails aligned with DORA (the EU Digital Operational Resilience Act), orchestrated patching across 300+ VMs, coaching 5+ squads.
+- **Now:** DevSecOps Architect (consultant) at SWIFT, Brussels, where I returned in 2025. CloudBees CI and CD/RO, golden-path pipelines, SBOM and policy-as-code guardrails aligned with DORA (the EU Digital Operational Resilience Act), orchestrated patching across 300+ VMs, coaching 5+ squads.
 - **Background:** 17+ years of Java and Linux. Monolith-to-microservices at SWIFT, an event-driven Kafka/Vert.x platform on Kubernetes at Eleven Sports, a 2.5 billion-record migration to Oracle at Swissquote.
-- **How I work:** agent-first with Claude Code, Codex and Devin, under a governance discipline: scoped tasks, human review and the same security gates as human-written code. This profile, my CV and my site are built that way ([sotille/CV](https://github.com/sotille/CV)).
+- **How I work:** coding agents (Claude Code, Codex, Devin) under a governance discipline: scoped tasks, human review and the same security gates as human-written code.
 
 ## Experience
 
 | | Role | Where | What |
 |---|---|---|---|
-| 🟢 | **DevSecOps Customer Success Architect** · consultant | **SWIFT** · Brussels · Jan 2025 – now | 40+ Java apps onboarded to zero-touch release orchestration (CloudBees CD/RO); 20+ orchestrated-patching pipelines over 300+ VMs; SAST/DAST gates, SBOM, policy-as-code; coaching 5+ squads |
+| 🟢 | **DevSecOps Architect** (Customer Success Architect) · consultant | **SWIFT** · Brussels · Jan 2025 – now | 40+ Java apps onboarded to zero-touch release orchestration (CloudBees CD/RO); 20+ orchestrated-patching pipelines over 300+ VMs; SAST/DAST gates, SBOM, policy-as-code; coaching 5+ squads |
 | ⚪ | **Senior Software Engineer** · consultant | **Swissquote** · Geneva · Jul – Dec 2024 | 2.5 billion-record financial database migrated to Oracle without loss of integrity |
 | ⚪ | **Senior Software Engineer** · consultant | **SWIFT** · Brussels · Jul 2019 – Jun 2024 | Identity Management monolith to microservices with the service live; JSF to Angular; Docker champion for two squads |
 | ⚪ | **Tech Lead &amp; Senior Software Engineer** | **Eleven Sports (MyCujoo)** · Lisbon · Jun 2018 – Jun 2019 | Cloud-native CQRS/event-driven backend on Vert.x and Kafka, Kubernetes on GCP, hundreds of thousands of concurrent interactions |
@@ -65,7 +65,7 @@ Public frameworks and reference architectures I publish under Techstream, my con
 
 **DevSecOps &amp; CI/CD** · CloudBees CI and CD/RO (expert) · Jenkins · SAST/DAST/SCA gates · SBOM and supply-chain security · policy as code · platform engineering (golden paths) · secure SDLC · Ansible Automation Platform · Docker · Kubernetes · Linux · HashiCorp Vault
 
-**Backend &amp; architecture** · Java 8–17 · Spring Boot / Security / Web · Vert.x · REST · GraphQL · microservices · event-driven / CQRS · Apache Kafka · Hazelcast
+**Backend &amp; architecture** · Java 8–21 · Spring Boot / Security / Web · Vert.x · REST · GraphQL · microservices · event-driven / CQRS · Apache Kafka · Hazelcast
 
 **Cloud &amp; data** · AWS · Google Cloud Platform · Oracle · PostgreSQL · SQL tuning and partitioning
 
@@ -79,13 +79,13 @@ Public frameworks and reference architectures I publish under Techstream, my con
 <summary>🇧🇷 Versão em português</summary>
 <br/>
 
-**Arquiteto DevSecOps Sênior &amp; Coach** · consultor freelance · cidadão italiano (UE) · Bruxelas
+**Arquiteto DevSecOps &amp; Coach** · cidadão italiano (UE) · Bruxelas · consultor na SWIFT
 
 Desenho os padrões de orquestração de releases e segurança pelos quais os squads entregam, e faço coaching até o padrão se sustentar. Plataformas reguladas e de alta disponibilidade: SWIFT, Swissquote, Eleven Sports.
 
-- **Agora:** DevSecOps Customer Success Architect (consultor) na SWIFT, Bruxelas. 40+ aplicações Java em orquestração de releases zero-touch (CloudBees CD/RO), 20+ pipelines de patching orquestrado em 300+ VMs (−40% no tempo), gates SAST/DAST, SBOM e policy-as-code alinhados à DORA, coaching de 5+ squads.
+- **Agora:** Arquiteto DevSecOps (consultor) na SWIFT, Bruxelas, para onde voltei em 2025. 40+ aplicações Java em orquestração de releases zero-touch (CloudBees CD/RO), 20+ pipelines de patching orquestrado em 300+ VMs (40% mais rápido), gates SAST/DAST, SBOM e policy-as-code alinhados à DORA, coaching de 5+ squads.
 - **Antes:** Swissquote (migração de 2,5 bilhões de registros para Oracle), SWIFT 2019–2024 (monólito para microsserviços, JSF para Angular, Docker champion), Eleven Sports (backend orientado a eventos em Vert.x e Kafka sobre Kubernetes/GCP).
-- **Como trabalho:** agent-first com Claude Code, Codex e Devin, sob governança: tarefas com escopo, revisão humana e os mesmos gates de segurança do código escrito por humanos.
+- **Como trabalho:** agentes de código (Claude Code, Codex, Devin) sob governança: tarefas com escopo, revisão humana e os mesmos gates de segurança do código escrito por humanos.
 
 </details>
 
