@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://dev.felipe.sotille.com/assets/felipe-avatar-round.png" width="132" height="132" alt="Felipe Sotille, speaking at a conference" />
+
 <h1>Felipe Sotille</h1>
 <h3>DevSecOps Architect &amp; Coach</h3>
 <p>Italian (EU) citizen · Brussels · currently at <a href="https://www.swift.com">SWIFT</a> as a consultant</p>
@@ -35,7 +37,7 @@ I design the release-orchestration and security standards that engineering squad
 | 🟢 | **DevSecOps Architect** (Customer Success Architect) · consultant | **SWIFT** · Brussels · Jan 2025 – now | 40+ Java apps onboarded to zero-touch release orchestration (CloudBees CD/RO); 20+ orchestrated-patching pipelines over 300+ VMs; SAST/DAST gates, SBOM, policy-as-code; coaching 5+ squads |
 | ⚪ | **Senior Software Engineer** · consultant | **Swissquote** · Geneva · Jul – Dec 2024 | 2.5 billion-record financial database migrated to Oracle without loss of integrity |
 | ⚪ | **Senior Software Engineer** · consultant | **SWIFT** · Brussels · Jul 2019 – Jun 2024 | Identity Management monolith to microservices with the service live; JSF to Angular; Docker champion for two squads |
-| ⚪ | **Tech Lead &amp; Senior Software Engineer** | **Eleven Sports (MyCujoo)** · Lisbon · Jun 2018 – Jun 2019 | Cloud-native CQRS/event-driven backend on Vert.x and Kafka, Kubernetes on GCP, hundreds of thousands of concurrent interactions |
+| ⚪ | **Tech Lead &amp; Senior Software Engineer** | **Eleven Sports** · Lisbon · Jun 2018 – Jun 2019 | Cloud-native CQRS/event-driven backend on Vert.x and Kafka, Kubernetes on GCP, hundreds of thousands of concurrent interactions |
 
 Earlier: Senior Java Developer at WPLEX (2015–2018), Java Developer at Metaway (2015) and Città (2010–2014), Junior Java Developer at Allcance (2008–2009), Brazil.
 
