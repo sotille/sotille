@@ -3,7 +3,7 @@
 <img src="https://dev.felipe.sotille.com/assets/felipe-avatar-round.png" width="132" height="132" alt="Felipe Sotille, speaking at a conference" />
 
 <h1>Felipe Sotille</h1>
-<h3>DevSecOps Architect &amp; Coach</h3>
+<h3>DevSecOps Architect &amp; Engineer</h3>
 <p>Italian (EU) citizen · Brussels · currently at <a href="https://www.swift.com">SWIFT</a> as a consultant</p>
 
 <a href="https://dev.felipe.sotille.com/cv"><img src="https://img.shields.io/badge/CV-dev.felipe.sotille.com-0f4c5c?style=for-the-badge" alt="CV" /></a>
@@ -14,9 +14,9 @@
 
 <br/><br/>
 
-| **17+** | **40+** | **300+** | **2.5bn** |
+| **17+** | **2.5bn** | **40+** | **100k+** |
 |:---:|:---:|:---:|:---:|
-| years in software engineering | Java apps on zero-touch release orchestration | VMs on orchestrated patching, 40% faster | financial records migrated to Oracle |
+| years in software engineering | financial records migrated to Oracle | Java apps on zero-touch release orchestration | concurrent users on a Kafka/Vert.x platform |
 
 </div>
 
@@ -65,9 +65,10 @@ Public frameworks and reference architectures I publish under Techstream, my con
 
 ## Stack
 
+**Backend &amp; architecture** · Java 8–21 · Spring Boot / Security / Web · Vert.x · REST · GraphQL · microservices · event-driven / CQRS · Apache Kafka · Hazelcast
+
 **DevSecOps &amp; CI/CD** · CloudBees CI and CD/RO (expert) · Jenkins · SAST/DAST/SCA gates · SBOM and supply-chain security · policy as code · platform engineering (golden paths) · secure SDLC · Ansible Automation Platform · Docker · Kubernetes · Linux · HashiCorp Vault
 
-**Backend &amp; architecture** · Java 8–21 · Spring Boot / Security / Web · Vert.x · REST · GraphQL · microservices · event-driven / CQRS · Apache Kafka · Hazelcast
 
 **Cloud &amp; data** · AWS · Google Cloud Platform · Oracle · PostgreSQL · SQL tuning and partitioning
 
@@ -81,7 +82,7 @@ Public frameworks and reference architectures I publish under Techstream, my con
 <summary>🇧🇷 Versão em português</summary>
 <br/>
 
-**Arquiteto DevSecOps &amp; Coach** · cidadão italiano (UE) · Bruxelas · consultor na SWIFT
+**Arquiteto DevSecOps &amp; Engenheiro** · cidadão italiano (UE) · Bruxelas · consultor na SWIFT
 
 Desenho os padrões de orquestração de releases e segurança pelos quais os squads entregam, e faço coaching até o padrão se sustentar. Plataformas reguladas e de alta disponibilidade: SWIFT, Swissquote, Eleven Sports.
 
