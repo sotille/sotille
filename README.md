@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://dev.felipe.sotille.com/assets/felipe-avatar-round.png" width="132" height="132" alt="Felipe Sotille, speaking at a conference" />
+
 <h1>Felipe Sotille</h1>
 <h3>DevSecOps Architect &amp; Coach</h3>
 <p>Italian (EU) citizen · Brussels · currently at <a href="https://www.swift.com">SWIFT</a> as a consultant</p>
