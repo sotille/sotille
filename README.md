@@ -65,7 +65,7 @@ Public frameworks and reference architectures I publish under Techstream, my con
 
 **DevSecOps &amp; CI/CD** · CloudBees CI and CD/RO (expert) · Jenkins · SAST/DAST/SCA gates · SBOM and supply-chain security · policy as code · platform engineering (golden paths) · secure SDLC · Ansible Automation Platform · Docker · Kubernetes · Linux · HashiCorp Vault
 
-**Backend &amp; architecture** · Java 8–17 · Spring Boot / Security / Web · Vert.x · REST · GraphQL · microservices · event-driven / CQRS · Apache Kafka · Hazelcast
+**Backend &amp; architecture** · Java 8–21 · Spring Boot / Security / Web · Vert.x · REST · GraphQL · microservices · event-driven / CQRS · Apache Kafka · Hazelcast
 
 **Cloud &amp; data** · AWS · Google Cloud Platform · Oracle · PostgreSQL · SQL tuning and partitioning
 
